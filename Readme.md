@@ -26,7 +26,3 @@ yarn cypress open / npx cypress open
 ```
 yarn cypress run / npx cypress run 
 ```
-
-<hr>
-Curso disponível em https://qaxperience.com
-
