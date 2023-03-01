@@ -27,6 +27,7 @@ yarn cypress open / npx cypress open
 yarn cypress run / npx cypress run 
 ```
 
-[Visualizar status do projeto](https://www.tesults.com/results/rsp/view/status/project/dfd357d9-e58e-49ce-8d0d-ce76a6223e16)
+[![Tesults Status](https://img.shields.io/badge/Tesults-View%20Status-blue)](https://www.tesults.com/results/rsp/view/status/project/dfd357d9-e58e-49ce-8d0d-ce76a6223e16)
+
 
 
