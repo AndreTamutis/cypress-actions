@@ -27,4 +27,5 @@ yarn cypress open / npx cypress open
 yarn cypress run / npx cypress run 
 ```
 
-Para mais informações, visite [meu site](https://www.exemplo.com.br).
+[![Logo da empresa](imagens/logo.png)](https://www.exemplo.com.br)
+
