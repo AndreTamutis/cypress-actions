@@ -23,12 +23,12 @@ describe('Login', () => {
     it('senha incorreta', () => {
         cy.login('qa', 'teste')
         cy.get(toast)
-            .should('have.text', 'Oops! Senha errada :(')
+            .should('have.text', 'Oops! Credenciais inválidas :(')
     })
 
     it('com sucesso', () => {
         cy.login('qa', 'xperience')
         cy.get(modalContent)
-            .should('have.text', 'Suas credenciais está válida :)')
+            .should('have.text', 'Suas credenciais são válidas :)')
     })
 })
