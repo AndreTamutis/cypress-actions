@@ -27,5 +27,6 @@ yarn cypress open / npx cypress open
 yarn cypress run / npx cypress run 
 ```
 
-[![Logo da empresa](imagens/logo.png)](https://www.exemplo.com.br)
+[Veja o status do projeto no Tesults](https://www.tesults.com/results/rsp/view/status/project/dfd357d9-e58e-49ce-8d0d-ce76a6223e16)
+
 
